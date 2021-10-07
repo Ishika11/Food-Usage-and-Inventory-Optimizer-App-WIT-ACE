@@ -19,7 +19,7 @@ Using a set of open sourced tools, IBM Cloud and Watson Services, it was possibl
 ![Test Image 5](https://github.com/Ishika11/WitAce--Food-Optimization/blob/main/diag.PNG)
 
  ## Getting Started
- Select the directory where the files are saved, that is, within: eCommerceFlask directory
+ Ope the command prompt and select the directory where the files are saved, that is, within: eCommerceFlask directory
  ```
  $pushd D:\Food_Optimiser_FE\eCommerceFlask
  ```
