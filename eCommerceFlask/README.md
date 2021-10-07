@@ -52,6 +52,11 @@ python run.py
 
 http://127.0.0.1:5000/
 
+### View Predicted results
+
+An out.txt file will appear on running the results at D:\Food-Usage-and-Inventory-Optimizer-App-WIT-ACE or wherever the cloning is done. 
+It will show the predicted plates of food ordered in the next week.
+
 ## Long description
 
 Food wastage is not just a humanitarian concern with still millions of people going to bed hungry, but also an environmental issue. By wasting food, we waste the energy required for its growth, transport, packaging and harvesting. This discarded food ends up in landfills where it rots and produces methane, a greenhouse gas far more potent than carbon dioxide. 6-8% of all human greenhouse gas emission comes from food wastage. Food wastage, hence, has a direct and detrimental impact on climate.
