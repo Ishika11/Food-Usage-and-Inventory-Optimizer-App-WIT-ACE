@@ -21,7 +21,7 @@ Using a set of open sourced tools, IBM Cloud and Watson Services, it was possibl
  ## Getting Started
  Select the directory where the files are saved, that is, within: eCommerceFlask directory
  ```
- $pushd D:\Food_Optimiser_FE\BillingFlask
+ $pushd D:\Food_Optimiser_FE\eCommerceFlask
  ```
 
 Set up a virtual environment
