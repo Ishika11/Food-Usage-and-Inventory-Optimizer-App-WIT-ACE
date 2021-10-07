@@ -43,6 +43,11 @@ pip install -r requirements.txt
 ```
 python run.py
 ```
+### View Predicted results
+
+An out.txt file will appear on running the results at D:\Food-Usage-and-Inventory-Optimizer-App-WIT-ACE or wherever the cloning is done. 
+It will show the predicted plates of food ordered in the next week.
+
 
 ### Finally open loopback URL address  🤓
 
