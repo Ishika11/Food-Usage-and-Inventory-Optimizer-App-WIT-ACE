@@ -1,6 +1,6 @@
 # Food Usage and Inventory Optimzer App
 
-## Short description
+## Introduction
 
 ### What's the problem?
 Food wastage is a major environmental problem facing the world today, and one of the major causes for the global food wastage is higher inventory due to poor forecasts. Many hotels end up over buying raw materials which remain unused till they go bad and are discarded. That ends up in lanfills and rots where it decomposes to produce harmful methane gas which causes green house effect. The energy that went into growing, transporting and harvesting the wasted food is also lost. 
