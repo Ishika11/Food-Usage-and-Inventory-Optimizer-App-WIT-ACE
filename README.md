@@ -48,7 +48,7 @@ python run.py
 
 http://127.0.0.1:5000/
 
-## Long description
+## Description
 
 Food wastage is not just a humanitarian concern with still millions of people going to bed hungry, but also an environmental issue. By wasting food, we waste the energy required for its growth, transport, packaging and harvesting. This discarded food ends up in landfills where it rots and produces methane, a greenhouse gas far more potent than carbon dioxide. 6-8% of all human greenhouse gas emission comes from food wastage. Food wastage, hence, has a direct and detrimental impact on climate.
 A third of the world's food produce is wasted each year, in other words, 1.3 billion tonnes.. In India, 67 million tonnes of food is wasted yearly. Our infrastructure and technology do not focus on sustainability of the food in the supply chain. One of the major contributors is higher inventory due to poor forecasts. Over purchasing of raw materials like wheat, perishable vegetables and fruits by restaurants leads to appalling losses every year. This is exactly the challenge my teammates and I have tried to overcome by the Food Usage Optimiser App.
