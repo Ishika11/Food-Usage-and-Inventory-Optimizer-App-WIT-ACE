@@ -74,14 +74,6 @@ Obviously, there are endless changes that we can make to the UI to make it more 
 
 Our aim is to make available this technology to every major hotel to begin with. The top chains of restaurants will be more than willing to accept it because the costs they incur due to food wastage and unmanaged inventories are huge. Slowly, we plan to introduce even the smallest of the restaurants to this app when it gains momentum. Future steps would be to migrate this web app to a mobile app, as phones are available to almost all people.
 
-
-## Built With
-
-1. IBM Cloud
-2. Watson Studio
-3. Flask : Web framework
-4. SQLAlchemy Repository
-
 ## Author
 
 [Ishika Kumar](https://github.com/Ishika11)
